@@ -1,0 +1,11 @@
+@theme inline {
+  --color-main: #0b75c2;
+}
+
+input {
+  @apply focus-visible:ring-0 focus-visible:ring-offset-0 focus-visible:outline-none;
+}
+
+.main-button {
+  @apply bg-main text-primary-foreground cursor-pointer hover:bg-main/90 capitalize;
+}
