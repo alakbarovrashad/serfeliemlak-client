@@ -21,7 +21,7 @@ const Logo = ({ className }: LogoProps) => {
           height={40}
           className="w-auto"
         />
-        <span className={cn("text-xl font-bold md:block text-main", className)}>
+        <span className={cn("text-xl font-bold text-main", className)}>
           {CompanyData.name}
         </span>
       </div>
