@@ -51,7 +51,7 @@ export const FooterMenuData:FooterMenu[] = [
             },
             {
                 item: "FAQs",
-                url: "/"
+                url: "/faqs"
             },
             {
                 item: "Discord Community",
@@ -84,7 +84,7 @@ export const FooterMenuData:FooterMenu[] = [
             },
             {
                 item: "Privacy policy",
-                url: "/"
+                url: "/privacy-policy"
             },
             {
                 item: "Terms & Condition",
